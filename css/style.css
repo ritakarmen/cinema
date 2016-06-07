@@ -1,0 +1,174 @@
+#container{
+	background: #F8F8FF;
+	opacity:0.50px;
+	font-family: 'Roboto', sans-serif;
+}
+.encabezado{
+	height: 100px;
+	text-align: left;
+	font-size: 24px;
+	padding-top: 0px;
+}
+.logo{ 
+	height: 100px;
+}
+.titulo h4{
+	height: 100px;
+	margin-top: 40px;
+	margin-left: 50px;
+	color: #D4D4D4;
+}
+.buscador {
+	height: 30px;
+	width: 250px;
+	border-style: none;
+	border: 2px solid #D3D3D3;
+	background-color:transparent;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+.buscador input{
+	border-style: none;
+	border:none;
+	background-color:transparent;
+}
+.buscador i{
+	color: #D3D3D3;
+}
+.presenta{
+	background-image: url("../img/banner.jpg");
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 600px;
+}
+.presenta img{
+	width: 100px;
+	height: 100px;
+	margin-left: 400px;
+	margin-top: 210px;
+}
+.cuadroG{
+	width: 350px;
+	height: 200px;
+	color: #D3D3D3;
+}
+#cuadro{
+	width: 100px;
+	height: 30px;
+	padding: 5px;
+	border: 2px solid green;
+	border-radius: 10%;
+	margin-top: 10px;
+	text-align: center;
+	display: inline-block;
+	float: left;
+}
+.cuadro2{
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.cuadro3{
+	clear: both;
+	padding: 10px;
+}
+.boton {
+	width: 180px;
+	height: 40px;
+	margin: 10px;
+	padding: 8px;
+	border-radius: 5%;
+	color: white;
+}
+.botonVideo{
+	background-color: #DFB636;
+}
+.botonTcket{
+	background-color: #BB7B29;
+}
+.cajaNav{
+	width: 1350px;
+	height: 300px;
+	background: #DFB636;
+	padding-top: 20px;
+}
+.imagen img{
+	width: 200px;
+	height: 250px;
+	padding: 15px;
+}
+.video iframe{
+	width:1350px;
+	height:315px;
+}
+.propaganda{
+	width: 1300px;
+	margin: 40px 50px;
+	padding: 40px;
+}
+.propaganda h2{
+	color: #D4D4D4;
+}
+strong { 
+    font-weight: bold;
+}
+.propaganda h5{
+	color: #BB7B29;
+}
+.propaganda  .botonTcket{
+	margin-left: 0px;
+	color: #D4D4D4;
+	text-align: center;
+}
+.propaganda1 {
+	line-height:40px;
+	font-size: 20px;
+	margin-top: 50px;
+
+}
+.propaganda1  .botonTcket2{
+	width: 250px;
+	height: 80px;
+	background-color: #BB7B29;
+	border-radius: 5%;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	padding: 15px;
+}
+.propaganda2 h4{
+	color: black;
+	padding-bottom: 10px;
+}
+.propaganda2 p{
+	color: #D4D4D4;
+}
+.propaganda2 h2{
+	bottom: 10px;
+	color: #D0D0D0;
+}
+.propaganda2 h3{
+	color: #BB7B29;
+}
+.propaganda2 hr{
+	margin: 35px 0px;
+}
+.navPropaganda{
+	width: 1300px;
+	padding: 10px 15px 15px 90px;
+}
+.navPropaganda .cajita{
+	width: 300px;
+	height: 400px;
+	padding: 10px;
+}
+.footer{
+	width:1350px;
+	height:315px;
+	background-color: 	#F3F3F3;
+	padding: 30px;
+	font-size: 20px;
+	color: 	#CCCCCC;
+	line-height: 24px;
+	padding: 10px 15px 15px 110px;
+}
